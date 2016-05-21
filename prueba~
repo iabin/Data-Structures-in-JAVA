@@ -1,0 +1,50 @@
+<line x1='125' y1='50' x2='75' y2='50' stroke='black' stroke-width='2' />
+<polygon points='125,50 132,43 132,57' stroke='black' stroke-width='0' fill='black'/>
+<polygon points='75,50 68,43 68,57' stroke='black' stroke-width='0' fill='black'/>
+<rect x='75' y='38' width='50' height='25' fill='white' stroke='black' stroke-width='1'/>
+<text fill='black' font-family='sans-serif' font-size='12' x='100' y='54' text-anchor='middle'>0</text>
+<line x1='125' y1='50' x2='175' y2='50' stroke='black' stroke-width='2' />
+<polygon points='125,50 132,43 132,57' stroke='black' stroke-width='0' fill='black'/>
+<polygon points='175,50 168,43 168,57' stroke='black' stroke-width='0' fill='black'/>
+<rect x='175' y='38' width='50' height='25' fill='white' stroke='black' stroke-width='1'/>
+<text fill='black' font-family='sans-serif' font-size='12' x='200' y='54' text-anchor='middle'>1</text>
+<line x1='225' y1='50' x2='275' y2='50' stroke='black' stroke-width='2' />
+<polygon points='225,50 232,43 232,57' stroke='black' stroke-width='0' fill='black'/>
+<polygon points='275,50 268,43 268,57' stroke='black' stroke-width='0' fill='black'/>
+<rect x='275' y='38' width='50' height='25' fill='white' stroke='black' stroke-width='1'/>
+<text fill='black' font-family='sans-serif' font-size='12' x='300' y='54' text-anchor='middle'>2</text>
+<line x1='325' y1='50' x2='375' y2='50' stroke='black' stroke-width='2' />
+<polygon points='325,50 332,43 332,57' stroke='black' stroke-width='0' fill='black'/>
+<polygon points='375,50 368,43 368,57' stroke='black' stroke-width='0' fill='black'/>
+<rect x='375' y='38' width='50' height='25' fill='white' stroke='black' stroke-width='1'/>
+<text fill='black' font-family='sans-serif' font-size='12' x='400' y='54' text-anchor='middle'>3</text>
+<line x1='425' y1='50' x2='475' y2='50' stroke='black' stroke-width='2' />
+<polygon points='425,50 432,43 432,57' stroke='black' stroke-width='0' fill='black'/>
+<polygon points='475,50 468,43 468,57' stroke='black' stroke-width='0' fill='black'/>
+<rect x='475' y='38' width='50' height='25' fill='white' stroke='black' stroke-width='1'/>
+<text fill='black' font-family='sans-serif' font-size='12' x='500' y='54' text-anchor='middle'>4</text>
+<line x1='525' y1='50' x2='575' y2='50' stroke='black' stroke-width='2' />
+<polygon points='525,50 532,43 532,57' stroke='black' stroke-width='0' fill='black'/>
+<polygon points='575,50 568,43 568,57' stroke='black' stroke-width='0' fill='black'/>
+<rect x='575' y='38' width='50' height='25' fill='white' stroke='black' stroke-width='1'/>
+<text fill='black' font-family='sans-serif' font-size='12' x='600' y='54' text-anchor='middle'>5</text>
+<line x1='625' y1='50' x2='675' y2='50' stroke='black' stroke-width='2' />
+<polygon points='625,50 632,43 632,57' stroke='black' stroke-width='0' fill='black'/>
+<polygon points='675,50 668,43 668,57' stroke='black' stroke-width='0' fill='black'/>
+<rect x='675' y='38' width='50' height='25' fill='white' stroke='black' stroke-width='1'/>
+<text fill='black' font-family='sans-serif' font-size='12' x='700' y='54' text-anchor='middle'>6</text>
+<line x1='725' y1='50' x2='775' y2='50' stroke='black' stroke-width='2' />
+<polygon points='725,50 732,43 732,57' stroke='black' stroke-width='0' fill='black'/>
+<polygon points='775,50 768,43 768,57' stroke='black' stroke-width='0' fill='black'/>
+<rect x='775' y='38' width='50' height='25' fill='white' stroke='black' stroke-width='1'/>
+<text fill='black' font-family='sans-serif' font-size='12' x='800' y='54' text-anchor='middle'>7</text>
+<line x1='825' y1='50' x2='875' y2='50' stroke='black' stroke-width='2' />
+<polygon points='825,50 832,43 832,57' stroke='black' stroke-width='0' fill='black'/>
+<polygon points='875,50 868,43 868,57' stroke='black' stroke-width='0' fill='black'/>
+<rect x='875' y='38' width='50' height='25' fill='white' stroke='black' stroke-width='1'/>
+<text fill='black' font-family='sans-serif' font-size='12' x='900' y='54' text-anchor='middle'>8</text>
+<line x1='925' y1='50' x2='975' y2='50' stroke='black' stroke-width='2' />
+<polygon points='925,50 932,43 932,57' stroke='black' stroke-width='0' fill='black'/>
+<polygon points='975,50 968,43 968,57' stroke='black' stroke-width='0' fill='black'/>
+<rect x='975' y='38' width='50' height='25' fill='white' stroke='black' stroke-width='1'/>
+<text fill='black' font-family='sans-serif' font-size='12' x='1000' y='54' text-anchor='middle'>9</text>
