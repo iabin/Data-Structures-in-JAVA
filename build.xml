@@ -12,10 +12,10 @@
 </target>
 
 <target name="jar" depends="compile">
-<jar destfile="Proyecto2.jar" basedir="build">
+<jar destfile="Graficador.jar" basedir="build">
 <manifest>
 <attribute name="Main-Class"
-  value="mx.unam.ciencias.proyecto2.Proyecto2"/>
+  value="mx.unam.ciencias.graficador.Graficador"/>
 </manifest>
 </jar>
 </target>
