@@ -6,10 +6,7 @@
 <javac srcdir="src" destdir="build" includeantruntime="true"/>
 </target>
 
-<target name="javadoc">
-<mkdir dir="docs"/>
-<javadoc sourcepath="src" destdir="docs"/>
-</target>
+
 
 <target name="jar" depends="compile">
 <jar destfile="Graficador.jar" basedir="build">
@@ -21,7 +18,7 @@
 </target>
 
 
-<target name="build" depends="compile,javadoc,jar" >
+<target name="build" depends="compile,jar" >
 </target>
 
 <target name="clean" depends="build">
@@ -33,4 +30,3 @@
 
 
 </project>
-
