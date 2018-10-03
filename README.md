@@ -16,12 +16,14 @@ Data Structures completely fuctional and programed in JAVA
 * GENERIC HASH
 * DJIKSTRA
 
+The data structures code is in src dir
 
 Besides the program generates a graphical representation of the data structures in SVG code
 
 
 Compile it with ant 
 using ant build 
+
 and execute it in the console with java -jar comand.
 <br/><br/>
 <i><b>Iabin.</b></i>
