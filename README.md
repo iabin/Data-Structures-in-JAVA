@@ -28,11 +28,11 @@ and execute it in the console with java -jar comand.
 <br/><br/>
 <i><b>Iabin.</b></i>
 
-Entrada y salida
-El programa escribirá su salida en la salida estándard, y recibirá su entrada a través de un nombre de archivo o de la entrada estándar (si no se especifica ningún nombre de archivo en la línea de comandos).
+input and output
+The program will write its output at standard output and input will be a file or standard input
 
-En el caso de todas las estructuras distintas a gráficas, el formato del archivo es el siguiente:
 
+The format is this
 
 Lista doblemente ligada
 ```
